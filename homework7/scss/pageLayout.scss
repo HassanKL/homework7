@@ -1,0 +1,26 @@
+.shoppingContainer {
+  width: 150px;
+  margin-bottom: 30px;
+  border-bottom: solid 2px #000;
+  cursor: pointer;
+  height: 350px;
+  margin: 20px;
+  //   background-color: crimson;
+  padding: 10px;
+
+  h2 {
+    height: 30px;
+    // background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .itemDescription {
+    margin-bottom: 30px;
+  }
+
+  .itemPrice {
+    font-size: 20px;
+  }
+}

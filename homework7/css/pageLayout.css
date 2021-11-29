@@ -1,0 +1,9 @@
+.shoppingContainer {
+  width: 150px;
+  margin-bottom: 30px;
+  border-bottom: solid 2px #000;
+  cursor: pointer;
+  height: 310px;
+  margin: 20px;
+  background-color: green;
+}
